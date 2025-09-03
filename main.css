@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+
+#page {
+  width: 1120px;
+  height: 3054px;
+  margin: 88px auto;
+}
+
+#intro {
+  margin-bottom: 44px;
+}
+
+#intro img {
+  width: 100%;
+  border-radius: 28px;
+  margin-top: 44px;
+  margin-bottom: 24px;
+}
+
+#intro p {
+  font-style: italic;
+  text-align: center;
+}
+
+main {
+  margin-top: 64px;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+hr {
+  opacity: .3;
+}
+
+span {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #e1624f;
+}
+
+#destination-options img {
+  width: 100%;
+  height: 350px;
+  border-radius: 28px;
+}
+
+#destination-options h2 {
+  margin-top: 2px;
+  margin-bottom: 8px;
+}
+
+.destinations-intro {
+  margin-bottom: 64px;
+}
+
+.destination h3 {
+  margin-top: 20px;
+  margin-bottom: 4px;
+}
+
+.good-for {
+  margin-top: 25px;
+  margin-bottom: 2px;
+  font-weight: bold;
+}
+
+ul {
+  list-style-position: inside;
+  margin-bottom: 48px;
+}
+
+li {
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+}
